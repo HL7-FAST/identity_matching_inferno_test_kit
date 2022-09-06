@@ -1,3 +1,8 @@
+See [identity-matching-test-kit](https://github.com/HL7-FAST/identity-matching-test-kit) for the current test kit.
+====
+
+All code has been transferred to the new repository, and all development going forward will only be done on that repository. The code in this repository is depreciated and may soon be deleted.
+
 # Inferno Template
 
 This is a template repository for an
